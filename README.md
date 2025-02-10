@@ -69,6 +69,10 @@ Username: Jvyct679999967DDDF4477
 Password: Xpluxxx3333ggghy5t57
 ```
 
+Host:http://dhworldme.net:8080
+Username: diardh
+Password:dh123123
+
 ```
 Host: http://iptv.icsnleb.com:25461/
 Username: 12
